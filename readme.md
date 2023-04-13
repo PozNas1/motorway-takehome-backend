@@ -10,4 +10,4 @@
 5. Run the app!
    `npm run start`
 
-### PS: if you want to open app in the watch mode use `npm run serve`
+#### PS: if you want to open app in the watch mode use `npm run serve`
