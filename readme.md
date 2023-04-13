@@ -1,6 +1,6 @@
 # Steps to run:
 
-1. Install nodeJS (tested using v19.0.1)
+1. Install nodeJS (tested using v19.9.0)
    [Download link](https://nodejs.org/en/download)
 2. Install Docker:
    [Download link](https://docs.docker.com/get-docker/)
